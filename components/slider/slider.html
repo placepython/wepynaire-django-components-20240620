@@ -1,0 +1,16 @@
+<div x-data="slider" x-init="init" class="swiper w-full h-[50vh]">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      {% slot "slides" default %}
+      <div class="slider-slide swiper-slide flex justify-center items-center text-lg">Slide 1</div>
+      <div class="slider-slide swiper-slide flex justify-center items-center text-lg">Slide 2</div>
+      <div class="slider-slide swiper-slide flex justify-center items-center text-lg">Slide 3</div>
+      <div class="slider-slide swiper-slide flex justify-center items-center text-lg">Slide 4</div>
+      {% endslot %}
+    </div>
+  
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev text-[#e08631]"></div>
+    <div class="swiper-button-next text-[#e08631]"></div>
+</div>

@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    
+    "autoprefixer": "^10.4.19",
+    "glob": "^10.3.15",
+    "postcss": "^8.4.38",
+    "vite": "^5.2.11"
+  }
+}

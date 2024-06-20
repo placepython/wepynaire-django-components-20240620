@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+    {% component "navbar" %}
+        {% fill "logo" %}<img src="{% static "images/logo.svg" %}" alt="logo">{% endfill %}
+    {% endcomponent %}
+
+    <div class="pb-5">
+        {% component "slider" %}
+            {% component "slide" %}
+                <div class="flex justify-center items-center text-lg bg-[#212121] text-white">Slide 1</div>
+            {% endcomponent %}
+            {% component "slide" %}
+                <div class="flex justify-center items-center text-lg bg-[#212121] text-white">Slide 2</div>
+            {% endcomponent %}
+            {% component "slide" %}
+                <div class="flex justify-center items-center text-lg bg-[#212121] text-white">Slide 3</div>
+            {% endcomponent %}
+            {% component "slide" %}
+                <div class="flex justify-center items-center text-lg bg-[#212121] text-white">Slide 4</div>
+            {% endcomponent %}
+        {% endcomponent %}
+    </div>
+
+    <div class="pb-5">
+        {% component "search-table" %}{% endcomponent %}
+    </div>
+
+{% endblock content %}
+
+{% block modals %}
+    {% component "modal" modal_id="mymodal" title="Inscription au WePynaire" body=body_text %}
+        {% lorem 1 p  %}
+    {% endcomponent %}
+{% endblock modals %}

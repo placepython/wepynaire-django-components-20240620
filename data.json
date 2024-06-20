@@ -1,0 +1,128 @@
+[
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Python pour les djangopreneurs pressés",
+        "slug": "python-pour-les-djangopreneurs-presses",
+        "start_datetime": "2024-06-20T20:00:00Z",
+        "duration": "2.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Django pour les djangopreneurs pressés",
+        "slug": "django-pour-les-djangopreneurs-presses",
+        "start_datetime": "2024-06-27T20:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Accérérateur Django",
+        "slug": "accererateur-django",
+        "start_datetime": "2024-07-28T19:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Du react... en Python ? C'est possible avec ReactPy",
+        "slug": "du-react-en-python-cest-possible-avec-reactpy",
+        "start_datetime": "2024-07-25T18:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Prendre en main django-components, avec htmx et alpine.js",
+        "slug": "prendre-en-main-django-components-avec-htmx-et-alp",
+        "start_datetime": "2024-08-23T19:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Introduction à la programmation orientée objet en Python",
+        "slug": "introduction-a-la-programmation-orientee-objet-en",
+        "start_datetime": "2024-08-08T12:00:00Z",
+        "duration": null
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Comprendre en profondeur le système de modules et de package de Python",
+        "slug": "comprendre-en-profondeur-le-systeme-de-modules-et",
+        "start_datetime": "2024-08-30T18:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Se simplifier la gestion des formulaires django avec django-crispy-forms",
+        "slug": "se-simplifier-la-gestion-des-formulaires-django-av",
+        "start_datetime": "2024-09-12T18:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Se simplifier React avec Django à l'aide de inertia.js",
+        "slug": "se-simplifier-react-avec-django-a-laide-de-inertia",
+        "start_datetime": "2024-10-11T18:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Gérer son frontend avec Vite lorsqu'on développe avec Django",
+        "slug": "gerer-son-frontend-avec-vite-lorsquon-developpe-av",
+        "start_datetime": "2024-08-14T14:00:00Z",
+        "duration": "2.5"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Déployer son application Django ou Wagtail sur o2switch",
+        "slug": "deployer-son-application-django-ou-wagtail-sur-o2s",
+        "start_datetime": "2024-08-15T18:00:00Z",
+        "duration": "2.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Accélérer le développement de ses plateformes de contenu avec Django et le CMS Wagtail",
+        "slug": "accelerer-le-developpement-de-ses-plateformes-de-c",
+        "start_datetime": "2024-06-30T19:00:00Z",
+        "duration": "3.0"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Démarrer la création de site d'e-commerce avec Django et Oscar",
+        "slug": "demarrer-la-creation-de-site-de-commerce-avec-djan",
+        "start_datetime": "2024-09-12T19:00:00Z",
+        "duration": "3.5"
+    }
+},
+{
+    "model": "example.wepynaire",
+    "fields": {
+        "title": "Développer son propre ORM pour comprendre en profondeur Django sous le capot",
+        "slug": "developper-son-propre-orm-pour-comprendre-en-profo",
+        "start_datetime": "2024-07-15T20:00:00Z",
+        "duration": "3.0"
+    }
+}
+]
